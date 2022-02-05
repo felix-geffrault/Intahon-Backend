@@ -1,0 +1,19 @@
+{
+  "envs": {
+    "session_secret": "I we are currently developing an application for our project IoT!",
+    "db_user": "",
+    "db_password": "",
+    "db_name": "",
+    "db_use_ssl": "false",
+    "db_host": "",
+    "db_connection": "mongodb+srv://NRJ2000:UJjWThaqLQgM6CzV@cluster0.svva8.mongodb.net/Itahon?retryWrites=true&w=majority"
+  },
+  "someservice": {
+    "key": "THE API KEY",
+    "id": "THE CLIENT ID"
+  },
+  "intahon": {
+    "session_secret": "I we are currently developing an application for our project IoT!",
+    "db_connection": "mongodb+srv://NRJ2000:UJjWThaqLQgM6CzV@cluster0.svva8.mongodb.net/Itahon?retryWrites=true&w=majority"
+  }
+}
